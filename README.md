@@ -4,17 +4,17 @@ This project proposes intelligent searching of CCTV footage with an added module
 
 ## Architecture Diagram
 
-![alt text](https://github.com/git-vivek29/Intelligent-CCTV-Footage-Search-System/blob/main/Architecture-Diagram.png "Architecture Diagram")
+![Architecture Diagram](https://github.com/git-vivek29/Intelligent-CCTV-Footage-Search-System/blob/main/Architecture-Diagram.png "Architecture Diagram")
 
 ## Face cropped from suspect image (which is provided as input in suspect folder)
 
-![alt text](https://github.com/git-vivek29/Intelligent-CCTV-Footage-Search-System/blob/main/face_crop/face_suspect1_0.jpg "face_suspect1_0")
-![alt text](https://github.com/git-vivek29/Intelligent-CCTV-Footage-Search-System/blob/main/face_crop/face_suspect1_1.jpg "face_suspect1_1")
+![face_suspect1_0](https://github.com/git-vivek29/Intelligent-CCTV-Footage-Search-System/blob/main/face_crop/face_suspect1_0.jpg "face_suspect1_0")
+![face_suspect1_1](https://github.com/git-vivek29/Intelligent-CCTV-Footage-Search-System/blob/main/face_crop/face_suspect1_1.jpg "face_suspect1_1")
 
 ###### Note: Only single image of suspect is need to be added in suspect folder since system is implemented by single shot learning. 
 
 ## Frame captured with suspect highlighted (Frame is saved in output folder)
-![alt text](https://github.com/git-vivek29/Intelligent-CCTV-Footage-Search-System/blob/main/output/img.jpg "Output Frame")
+![Output Frame](https://github.com/git-vivek29/Intelligent-CCTV-Footage-Search-System/blob/main/output/img.jpg "Output Frame")
 
 ### Timestamp for frame at which suspect identified in CCTV footage is provided by output of python notebook file.
 
