@@ -21,3 +21,7 @@ This project proposes intelligent searching of CCTV footage with an added module
 ###### Note: Only first occurrence of suspect is saved and system terminates its task
 
 [Please Download the vgg_face_weight.h5 file from here](https://drive.google.com/file/d/1h82obQ_LLQbZgEf9oxn0xNFDsmznKkb1/view?usp=sharing)
+
+## For more information, please view the Research Paper published at International Research Journal of Engineering and Technology (IRJET)
+
+[Click here for Published Research Paper](https://www.irjet.net/archives/V7/i4/IRJET-V7I4864.pdf)
